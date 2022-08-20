@@ -1,2 +1,2 @@
 # flocking
-Touchdesigner projects that implements the flocking boids behavior.
+Touchdesigner projects that implement the flocking boids behavior.
