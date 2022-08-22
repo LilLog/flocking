@@ -11,4 +11,5 @@ Two objects wandering with a random steering force, bounded by a continuous boun
 
 100 flocking boids bounded within a rectangle area. The boids would turn back when they are close to the boundary.
 Adding some audio reactive parameters it could get more interesting.
+
 ![Audio Reactive Flocking](/flo.gif)
