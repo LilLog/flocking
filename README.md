@@ -1,4 +1,4 @@
-# flocking
+# Flocking Boids
 Touchdesigner projects that implement the flocking boids behavior.
 ## Steering
 A triangular object steered by the location of mouse cursor.
@@ -10,3 +10,5 @@ Two objects wandering with a random steering force, bounded by a continuous boun
 ![Flocking2D](/flocking2D.gif)
 
 100 flocking boids bounded within a rectangle area. The boids would turn back when they are close to the boundary.
+Adding some audio reactive parameters it could get more interesting.
+![Audio Reactive Flocking](/flo.gif)
